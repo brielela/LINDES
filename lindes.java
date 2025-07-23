@@ -7,8 +7,8 @@ public class lindes{
         System.out.println("oi rs");
         String input = scanner.nextLine();
 
-        if (input.equals("oi rs")) {
-            System.out.println("oi rs");
+        if (input.equals("oláaaaaa")) {
+            System.out.println("oinnnnn");
         } else {
             System.out.println("oi rs");
         }
